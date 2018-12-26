@@ -1,0 +1,15 @@
+{
+  "name": "todo_sample2",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "axios": "^0.18.0",
+    "vue": "^2.5.21",
+    "vue-loader": "14.2.2",
+    "vue-router": "^3.0.2",
+    "vue-template-compiler": "^2.5.21"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
